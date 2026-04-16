@@ -1,4 +1,4 @@
-# CodeCoach
+# LeetCode Reviewer
 
 A full-stack application for practicing coding problems and tracking performance over time, with AI-powered feedback on submissions.
 
