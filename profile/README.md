@@ -1,4 +1,5 @@
 # LeetCode Reviewer
+#### [FRONTEND](https://github.com/CST438-Project3-Group3-LeetCodeReviewer/frontend) | [BACKEND](https://github.com/CST438-Project3-Group3-LeetCodeReviewer/backend)
 
 A full-stack application for practicing coding problems and tracking performance over time, with AI-powered feedback on submissions.
 
